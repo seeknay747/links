@@ -25,3 +25,6 @@ https://practical365.com/podcast/
 
 https://podcasts.apple.com/ca/podcast/the-bluehat-podcast/id1688087915
 - Since 2005, BlueHat has been where the security research community, and Microsoft, come together as peers; to debate, discuss, share, challenge, celebrate and learn. On The BlueHat Podcast, Microsoft and MSRC’s Nic Fillingham and Wendy Zenone will host conversations with researchers and industry leaders, both inside and outside of Microsoft, working to secure the planet’s technology and create a safer world for all.
+
+# Support
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/seeknay747)
