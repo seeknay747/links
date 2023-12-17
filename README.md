@@ -14,7 +14,7 @@ https://www.microsoft.com/cloudskillschallenge/ignite/registration/2023
 ### Okta: October Customer Support Security Incident - Update and Recommended Actions
 https://sec.okta.com/harfiles
 
-# Microsoft Links
+# Microsoft Helpful Links
 
 https://cmd.ms/
 - cmd.ms the Microsoft Cloud command line!
