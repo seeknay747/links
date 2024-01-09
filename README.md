@@ -9,7 +9,7 @@ https://www.microsoft.com/cloudskillschallenge/ignite/registration/2023
 - The Microsoft Learn Cloud Skills Challenge is a gamified learning experience that helps you gain the skills you need to achieve more with technology. The challenge is designed to help you prepare for - and pass - your assessment and earn your new credential. The challenge starts on November 15, 2023, at 4:00 PM (16:00) UTC and ends on January 15, 2024, at 4:00 PM (16:00) UTC. You can complete a challenge for a chance to win a VIP event pass for the next Microsoft Ignite or Microsoft Build. The challenge is open to all and you can take one or take them all! 12
 
 
-# News
+# News / Recent Posts
 
 ### AutomatedLab (Setup a Lab (AD, Exchange, SQL. Sharepoint, etc.) in Azure or Hyper-V in as little as 6 lines of code!)
 https://automatedlab.org/en/latest/
