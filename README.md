@@ -11,6 +11,9 @@ https://www.microsoft.com/cloudskillschallenge/ignite/registration/2023
 
 # News
 
+### AutomatedLab (Setup a Lab (AD, Exchange, SQL. Sharepoint, etc.) in Azure or Hyper-V in as little as 6 lines of code!)
+https://automatedlab.org/en/latest/
+
 ### Okta: October Customer Support Security Incident - Update and Recommended Actions
 https://sec.okta.com/harfiles
 
