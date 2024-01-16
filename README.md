@@ -11,6 +11,9 @@ https://www.microsoft.com/cloudskillschallenge/ignite/registration/2023
 
 # News / Recent Posts
 
+### Okta: What's Next? By Okta Learning
+https://regionalevents.okta.com/whatsnextbyoktalearning
+
 ### AutomatedLab (Setup a Lab (AD, Exchange, SQL. Sharepoint, etc.) in Azure or Hyper-V in as little as 6 lines of code!)
 https://automatedlab.org/en/latest/
 
