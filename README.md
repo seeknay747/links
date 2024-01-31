@@ -1,13 +1,12 @@
 # Training, Training, Training!
 
-### Okta $50 Certification with Free Prep (Now through January 15, 2024)
-https://regionalevents.okta.com/certification2023/
-- Fine-tune your technical expertise, strengthen your personal brand, and get more out of Okta by earning (or leveling up) your Okta Certification in our biggest event of the year. Earn a Workforce Identity or Customer Identity Cloud Certification; our hands-on exam formats test your skills in a live preview tenant, so you can seamlessly demonstrate your knowledge.
+### Microsoft Career Pathing Guidance
+https://learn.microsoft.com/en-us/training/career-paths/
+- There are over 700k job listings seeking candidates with Microsoft technical skills. Explore training, certifications, job listings, and land the job you desire!
 
-### Microsoft Cloud Skills Challenge (Now through January 15, 2024)
-https://www.microsoft.com/cloudskillschallenge/ignite/registration/2023
-- The Microsoft Learn Cloud Skills Challenge is a gamified learning experience that helps you gain the skills you need to achieve more with technology. The challenge is designed to help you prepare for - and pass - your assessment and earn your new credential. The challenge starts on November 15, 2023, at 4:00 PM (16:00) UTC and ends on January 15, 2024, at 4:00 PM (16:00) UTC. You can complete a challenge for a chance to win a VIP event pass for the next Microsoft Ignite or Microsoft Build. The challenge is open to all and you can take one or take them all! 12
-
+### Microsoft Certification Map
+https://aka.ms/CertificationsPoster
+- Diagram with clickable links showing Microsoft Certification Pathing.
 
 # News / Recent Posts
 
