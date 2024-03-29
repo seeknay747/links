@@ -10,6 +10,9 @@ https://aka.ms/CertificationsPoster
 
 # News / Recent Posts
 
+### Unified cloud.microsoft domain for Microsoft 365 apps
+https://learn.microsoft.com/en-us/microsoft-365/enterprise/cloud-microsoft-domain?view=o365-worldwide#microsoft-product-and-service-urls
+
 ### Use a Custom Domain with Apple iCloud Mail
 https://support.apple.com/en-us/102374
 
@@ -18,10 +21,6 @@ https://mxtoolbox.com/
 
 ### Cisco Talos (Check IP Address Reputation)
 https://talosintelligence.com/reputation_center/
-
-### What's Next? By Okta Learning
-https://regionalevents.okta.com/whatsnextbyoktalearning
-- Grants for unemployed tech workers, including veterans and military spouses. Apply by January 31, 2024.
 
 ### AutomatedLab (Setup a Lab (AD, Exchange, SQL. Sharepoint, etc.) in Azure or Hyper-V in as little as 6 lines of code!)
 https://automatedlab.org/en/latest/
@@ -55,7 +54,7 @@ https://podcasts.apple.com/ca/podcast/the-bluehat-podcast/id1688087915
 https://www.tiktok.com/@seeknay747
 
 ### Linktree
-https://linktr.ee/seeknay747
+https://linktr.ee/seeknay
 
 # Support
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/seeknay747)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/seeknay)
